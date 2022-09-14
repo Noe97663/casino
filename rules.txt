@@ -1,0 +1,19 @@
+								BLACKJACK
+
+
+The following are the rules of the game:-
+
+
+*You are dealt two cards and so is the dealer
+
+*If you want you can hit which means adding another card to your arsenal
+
+*If you dont want any more cards you can stay which means stay out of the round
+
+*The goal of the game is to get 21 as the sum of your cards
+
+
+						
+						
+
+						MAY THE ODDS BE EVER IN YOUR FAVOUR!!!

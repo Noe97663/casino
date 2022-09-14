@@ -1,0 +1,11 @@
+// You are now in the slot machine portion of this casino \\
+
+The symbols of the slot machine are 
+ -   ( )   -   777   -   ###   -   @.@   -   .!.   -   O.O   -   |||   -   <$>   -   ^_^   -
+
+If you get the same symbol thrice in a row you win 200\n\n
+If you get the same symbol thrice in a column you win 300
+If you get the same symbol thrice in a diagonal line you win 500
+If you get the same symbol in every position you win 1000
+
+
